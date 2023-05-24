@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/To-Do-List-FireBase/static/css/main.be3d8cb0.css",
+    "main.js": "/To-Do-List-FireBase/static/js/main.ac7813cb.js",
+    "static/media/bg.jpg": "/To-Do-List-FireBase/static/media/bg.dd74067cee9d46b0a987.jpg",
+    "index.html": "/To-Do-List-FireBase/index.html",
+    "main.be3d8cb0.css.map": "/To-Do-List-FireBase/static/css/main.be3d8cb0.css.map",
+    "main.ac7813cb.js.map": "/To-Do-List-FireBase/static/js/main.ac7813cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be3d8cb0.css",
+    "static/js/main.ac7813cb.js"
+  ]
+}
